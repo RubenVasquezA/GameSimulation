@@ -155,7 +155,7 @@ public class Simulation {
 			System.out.println("Who was hit: "+ report_of_simulation.get(i).getWasHit());
 			System.out.println("Lost health points: "+ report_of_simulation.get(i).getHpLost());
 			System.out.println("health points of the target has left: "+ report_of_simulation.get(i).getTargetLeft());
-			System.out.println("================================");
+			System.out.println("================================ <:)");
 			
 			entry.put("whoFired", report_of_simulation.get(i).getWhoFired());
 			entry.put("whoWasHit", report_of_simulation.get(i).getWasHit());
